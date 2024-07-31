@@ -695,7 +695,6 @@ img {
   letter-spacing: 0.04em;
   color: #8e8f99;
   align-items: center;
-  gap: 8px;
 }
 
 .check-privacy {
@@ -710,7 +709,7 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     border 250ms cubic-bezier(0.4, 0, 0.2, 1),
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  margin-left: 8px;
+  margin-right: 8px;
 }
 
 .modal-check:checked + .modal-check-text span {
